@@ -6,7 +6,7 @@ public class SalesClass {
 	public void show()
 	{
 		int sum=0;
-		for(int num:arr) {
+		for(int num=0;num<arr[num];num++)  {
 			sum+=num;
 			System.out.println(num);
 		}		System.out.println(sum);
