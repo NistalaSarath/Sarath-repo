@@ -5,11 +5,11 @@ public class SalesClass {
 	
 	public void show()
 	{
-		int sum=0;
+		int dum=0;
 		for(int num=0;num<arr[num];num++)  {
-			sum+=num;
+			dum+=num;
 			System.out.println(num);
-		}		System.out.println(sum);
+		}		System.out.println(dum);
 
 	}
 }
